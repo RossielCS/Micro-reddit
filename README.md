@@ -1,12 +1,8 @@
-# Blogger App Rails
+# Micro Reddit
 
-This is the webpage to post the blog with the functionalities of commenting, tagging, and uploading the images. This project is built using the Ruby on rails framework
+In this project, we create a mini Reddit where we could test how to create models, database associations, and validations for the input.  
+This project is built using the Ruby on rails framework.
 
-## Live Link
-
-## Screenshot
-
-![Screenshot_2020-05-26 Blogger](https://user-images.githubusercontent.com/60085697/82945217-ef69d500-9f72-11ea-9e13-397ab48bb853.png)
 
 ## Built With
 
@@ -15,6 +11,11 @@ This is the webpage to post the blog with the functionalities of commenting, tag
 - Rubocop,
 - Stickler
 - VS Code
+
+# Features
+
+- User and Post Models,
+- Validations for user and post components.
 
 ## Authors
 
