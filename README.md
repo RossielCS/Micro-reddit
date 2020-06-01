@@ -1,24 +1,42 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, we create a mini Reddit where we could test how to create models, database associations, and validations for the input.  
+This project is built using the Ruby on rails framework.
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails,
+- Ruby,
+- Rubocop,
+- Stickler
+- VS Code
 
-* Configuration
+# Features
 
-* Database creation
+- User and Post Models,
+- Validations for user and post components.
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Rossiel Carranza**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@RossielCS](https://github.com/RossielCS)
+- Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza/) 
 
-* Deployment instructions
 
-* ...
+👤 **Shubham Singh**
+
+- Github: [@shubhsk88](https://github.com/shubhsk88)
+- Twitter: [@shubhski](twitter.com/shubski)
+- Linkedin: [linkedin](https://www.linkedin.com/in/shubham-singh-130349140/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
